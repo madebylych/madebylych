@@ -80,7 +80,7 @@ animación
 *"create first, perfect later"*
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lychee-zzz&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madebylych&theme=midnight-purple)](https://git.io/streak-stats)
 
 ---
 
