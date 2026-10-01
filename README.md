@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=101&color=9C42F7&center=true&vCenter=true&width=435&lines=estudiante+de+creaci%C3%B3n+digital;frontend;ilustraci%C3%B3n;dise%C3%B1o;animaci%C3%B3n;ui%2Fux;storytelling)](https://git.io/typing-svg)
 
+[![Portafolio](https://img.shields.io/badge/portafolio-madebylych-7E3FF2?style=for-the-badge&labelColor=000000)](https://madebylych.github.io/portfolio-lych-cd/)
+
 ---
 
 ### about 🪼⋆.ೃ࿔*:･
