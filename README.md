@@ -79,11 +79,6 @@ animación
 
 *"create first, perfect later"*
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madebylych&theme=midnight-purple)](https://git.io/streak-stats)
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madebylych/madebylych/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madebylych/madebylych/output/github-contribution-grid-snake.svg">
